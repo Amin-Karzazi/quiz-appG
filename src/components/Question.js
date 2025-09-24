@@ -1,4 +1,3 @@
-npm start
 import React from "react";
 import Option from "./Option";
 
