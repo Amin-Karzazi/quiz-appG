@@ -1,7 +1,3 @@
-HEAD
-
-
- 7e451a7f6c121bfe339d4c83e216be6cd48be532
 import React from "react";
 import Option from "./Option";
 
