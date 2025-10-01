@@ -3,6 +3,8 @@ import "./App.css";
 import Timer from "./components/Timer";
 import Question from "./components/Question";
 import QuizResult from "./components/QuizResult";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function App() {
   const [questions, setQuestions] = useState([]);
